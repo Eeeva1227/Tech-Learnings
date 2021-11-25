@@ -1,2 +1,7 @@
-# Eva-first
-First several small projects during 2B
+# Tech Learnings
+
+## GitHub Cheat Sheet
+
+## Docker 
+
+## SSH
