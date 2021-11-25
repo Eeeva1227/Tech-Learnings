@@ -9,7 +9,7 @@ Secure Shell provides strong password authentication and public key authenticati
 
 In addition to strong encryption, SSH is used by network administrators to manage systems and applications remotely, enabling them to log in to another computer over a network, execute commands and move files from one computer to another.
 
-SSH can also be used to create secure tunnels for other application protocols,
+SSH can also be used to create secure tunnels for other application protocols.
 
 
 ## How does SSH work?
