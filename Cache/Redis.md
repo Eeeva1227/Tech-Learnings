@@ -23,3 +23,9 @@ A binary-safe string is a string that can contain any kind of data, e.g. a JPEC 
 - List
 The elements are stored in a linked list, and the elements are sorted on the basis of the insertion order.
 The list should be stored in those cases where the order of insertion matters and where the write speed matters as compared to the read speed, e.g, storing logs.
+- Set
+- Sorted set
+- Hash
+The hash value type is a *field-value* pair.
+
+}
