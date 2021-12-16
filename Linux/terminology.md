@@ -22,5 +22,6 @@ Most of the Unixes (Ubuntu/macOS) use the so-called Bash shell.
 ### Permanently setting an Environment Variable in Bash Shell
 
 
-# References
+## References
 https://medium.com/geekculture/path-macos-best-practice-for-path-environment-variables-on-mac-os-35ec4076a486 
+
