@@ -34,5 +34,15 @@ Adding `-a` option (or `-all`) to include changes to ignored files.
 ## How git stash works
 TODO: https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud d
 
+
+
+
+## Git Rebase
+
+
+## Git Blame
+`git-blame` - Show what revision and author last modified each line of a file
+
+
 # Reference
 https://www.atlassian.com/git/tutorials/saving-changes/git-stash#stashing-your-work 
