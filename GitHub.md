@@ -38,10 +38,30 @@ TODO: https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud d
 
 
 ## Git Rebase
+Integrating changes from one branch onto another.
+Rebase has a powerful history rewriting features.
+
+### What is git rebase?
+Rebasing is the process of moving or combining a sequence of commits to a new base commit.
+
+**From a content perspective, rebaseing is changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit.**
+
+### Usage
+The primary reason for rebasing is to maintain a linear project history.
+Rebasing is a common way to integrate upstream changes into your local repository repository.
+
+Pulling in upstream changes with `Git merge` results in a superfluous merge commit every time you want to see how the project has progressed.
+
 
 
 ## Git Blame
-`git-blame` - Show what revision and author last modified each line of a file
+`git-blame <file>` - Show what revision and author last modified each line of a file
+
+`-L <start> <end>`
+`-L :<function_name>`
+Annotate only the line range
+
+
 
 
 # Reference
